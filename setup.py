@@ -27,7 +27,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "my_node = my_bot.subs:main"
+            "my_node = my_bot.subs:main",
+            "cam_node = my_bot.cam_node:main"
         ],
     },
 )
