@@ -28,7 +28,7 @@ setup(
     entry_points={
         'console_scripts': [
             "my_node = my_bot.subs:main",
-            "cam_node = my_bot.cam_node:main"
+            "cam_node = my_bot.camera_node:main"
         ],
     },
 )
