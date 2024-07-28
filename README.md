@@ -18,6 +18,6 @@ Run the commands below in seperate terminals : <br/>
 ## Make the robot autonomous with NAV2
 ``ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true``
 ## Run nodes
-Run ``ros2 run my_bot camera_node`` to start camera node <br/>
+Run ``ros2 run my_bot cam_node`` to start camera node <br/>
 
  
