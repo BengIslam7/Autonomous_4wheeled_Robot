@@ -5,7 +5,7 @@
 ``mkdir src`` <br/>
 ``cd src`` <br/>
 ``git clone https://github.com/BengIslam7/Autonomous_4wheeled_Robot.git`` <br/>
-``mv ROS2_IS my_bot`` <br/>
+``mv ROS2_IS Autonomous_4wheeled_Robot`` <br/>
 ``cd ..`` <br/>
 ``colcon build --symlink-install`` <br/>
 ``gedit ~/.bashrc`` and at the end of file add ``source /workspace_path/install/setup.bash`` 
