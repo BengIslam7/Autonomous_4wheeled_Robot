@@ -5,8 +5,8 @@
 ``cd ros2_ws`` <br/>
 ``mkdir src`` <br/>
 ``cd src`` <br/>
-``git clone https://github.com/BengIslam7/ROS2_IS.git`` <br/>
-``mv ROS2_IS my_bot`` <br/>
+``git clone https://github.com/BengIslam7/Autonomous_4wheeled_Robot.git`` <br/>
+``mv Autonomous_4wheeled_Robot my_bot`` <br/>
 ``cd ..`` <br/>
 ``echo 'source ~/ros2_ws/install/setup.bash' >> ~/.bashrc ``  <br/>
 ``colcon build --symlink-install``
